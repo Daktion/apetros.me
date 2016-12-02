@@ -9,13 +9,11 @@ body{
   background-image: url(img/dog-park.jpg);
   background-size: cover;
   background-position: 50% 70%;
-}
-
-.all-content{
   display: flex;
   flex-direction: column;
   justify-content: space-between;
 }
+
 
 nav{
   display: flex;
