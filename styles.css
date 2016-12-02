@@ -111,7 +111,11 @@ nav ul li{
   text-align: center;
 }
 
-footer {
+footer{
+  display: block;
+}
+
+#footer-links {
   display:flex;
   align-self: stretch;
   justify-content: space-around;
