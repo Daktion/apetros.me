@@ -65,3 +65,13 @@ body{
   background: url("img/private.jpg");
   background-size: 100%;
 }
+
+.hidden {
+  display: none;
+}
+
+.info-pane {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
