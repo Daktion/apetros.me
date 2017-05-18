@@ -17,12 +17,21 @@ body{
   flex-direction: row;
   justify-content: space-around;
   flex: 1 1 auto;
+  overflow: scroll;
 }
 
-.circle{
+.circle-exterior{
   border-radius: 50%;
   width: 200px;
   height: 200px;
+  box-shadow: 5px 5px 5px gray;
+}
+
+.circle-interior{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
   box-shadow: 5px 5px 5px gray;
 }
 
@@ -43,8 +52,8 @@ body{
 
 #dividing-line{
   width: 10px;
-  margin-right: 5%;
-  margin-left: 5%;
+  margin-right: 40px;
+  margin-left: 40px;
   background-color: black;
 }
 
@@ -70,8 +79,39 @@ body{
   display: none;
 }
 
+.novis.circle-interior{
+  box-shadow: none;
+}
+
 .info-pane {
   height: 100%;
-  width: 100%;
+  width: 100vh;
   position: absolute;
+}
+
+.circle-flex {
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+#private-info {
+  justify-content: flex-start;
+}
+
+#public-info {
+  justify-content: flex-end;
+}
+
+
+#vvvvvv-image {
+  background: url("img/viridian.png");
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
+}
+
+#vvvvvv-back {
+
 }

@@ -6,4 +6,9 @@ $(function() {
       $(wrapper.children('.info-pane')).fadeIn(1000);
   });
 
+  $('#vvvvvv').flip({
+    front:'#vvvvvv-image',
+    back: '#vvvvvv-back'
+  });
+
 });
