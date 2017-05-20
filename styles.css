@@ -112,6 +112,172 @@ body{
   height: 100%;
 }
 
-#vvvvvv-back {
+#vvvvvv-text {
+  background: url("img/vtext.png");
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
+}
 
+#waterpolo-image {
+  background: url("img/waterpolo.jpg");
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
+}
+
+#waterpolo-text {
+  background: url("img/waterpolotext.png");
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
+}
+
+#dartmouth-image {
+  background: url("img/bigd.png");
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
+}
+
+#dartmouth-text {
+  background: url("img/bigdtext.png");
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
+}
+
+#gov-image {
+  background: url("img/gov.jpg");
+  background-size: cover;
+  background-position: 50% 70%;
+  width: 100%;
+  height: 100%;
+}
+
+#gov-text {
+  background: url("img/govtext.png");
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
+}
+
+#cs-image {
+  background: url("img/cs.jpg");
+  background-size: cover;
+  background-position: 35% 50%;
+  width: 100%;
+  height: 100%;
+}
+
+#cs-text {
+  background: url("img/cstext.png");
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
+}
+
+#sigep-image {
+  background: url("img/sigep.jpg");
+  background-size: cover;
+  background-position: 35% 50%;
+  width: 100%;
+  height: 100%;
+}
+
+#sigep-text {
+  background: url("img/sigeptext.png");
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
+}
+
+#sigepalt-image {
+  background: url("img/sigepalt.png");
+  background-size: cover;
+  background-position: 50% 50%;
+  width: 100%;
+  height: 100%;
+}
+
+#sigepalt-text {
+  background: url("img/sigepalttext.png");
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
+}
+
+#undertable-image {
+  background: url("img/undertable.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+  width: 100%;
+  height: 100%;
+}
+
+#undertable-text {
+  background: url("img/undertabletext.png");
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
+}
+
+#bonfire-image {
+  background: url("img/bonfire.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+  width: 100%;
+  height: 100%;
+}
+
+#bonfire-text {
+  background: url("img/bonfiretext.png");
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
+}
+
+#keybiscayne-image {
+  background: url("img/keybiscayne.jpg");
+  background-size: cover;
+  background-position: 70% 50%;
+  width: 100%;
+  height: 100%;
+}
+
+#keybiscayne-text {
+  background: url("img/keybiscaynetext.png");
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
+}
+
+#kid-image {
+  background: url("img/kid.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+  width: 100%;
+  height: 100%;
+}
+
+#kid-text {
+  background: url("img/kidtext.png");
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
+}
+
+#wallstreet-image {
+  background: url("img/wallstreet.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+  width: 100%;
+  height: 100%;
+}
+
+#wallstreet-text {
+  background: url("img/wallstreettext.png");
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
 }
